@@ -1,0 +1,2 @@
+# BlinkEffectLibrary
+BlinkEffect

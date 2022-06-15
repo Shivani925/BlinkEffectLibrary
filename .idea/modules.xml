@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BlinkEffect.iml" filepath="$PROJECT_DIR$/.idea/modules/BlinkEffect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BlinkEffect.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BlinkEffect.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blinkeffectlibrary/BlinkEffect.blinkeffectlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/blinkeffectlibrary/BlinkEffect.blinkeffectlibrary.iml" />
+    </modules>
+  </component>
+</project>
